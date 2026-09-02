@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=<main>
+        <section>
+            <h2>Login</h2>
+        </section>
+        <section>
+            <form id="loginForm" method="POST">
+                <label for="loginEmail">E-mail:</label>
+                <input type="email" id="loginEmail" name="email" required />
+    
+                <label for="loginSenha">Senha:</label>
+                <input type="password" id="loginSenha" name="senha" required />
+    
+                <input type="submit" value="Entrar" />
+            </form>
+        </section>
+    </main>
+    
+    <script>
+        document.getElementById('loginForm').addEventListener('submit', function (event) {
+            event.preventDefault();
+            const email = document.getElementById('loginEmail').value;
+            alert(`Tentativa de login com o e-mail: ${email}`);
+        });
+    </script>, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
