@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../Users/RAFAELTOLEDODEOLIVEI/Desktop/aula_terça/Exemplo_table"
+		},
+		{
+			"path": "../Users/RAFAELTOLEDODEOLIVEI/Desktop/aula_terça/exemplo-form"
+		},
+		{
+			"path": "../Users/RAFAELTOLEDODEOLIVEI/Desktop/aula_terça/imagens"
+		},
+		{
+			"path": "../Users/RAFAELTOLEDODEOLIVEI/Desktop/aula_terça/venda-ingressos"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Exemplo_table"
+	}
+}
