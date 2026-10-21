@@ -1,0 +1,8 @@
+/* Único CSS próprio: o que o Bootstrap não oferece pronto */
+.card-hover {
+    transition: transform 0.2s ease;
+}
+
+.card-hover:hover {
+    transform: translateY(-4px);
+}
